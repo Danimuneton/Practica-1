@@ -34,8 +34,7 @@ Cada nodo en la lista doblemente enlazada contiene:
 - `siguiente`: Puntero al nodo siguiente
 
 ## Presentación en Video
-[Insertar URL de YouTube/Video aquí mostrando a cada integrante del equipo explicando la funcionalidad del código]
-
+https://youtu.be/Z_P8FwGuIOQ?feature=shared
 
 ## Funcionalidades Implementadas
 
